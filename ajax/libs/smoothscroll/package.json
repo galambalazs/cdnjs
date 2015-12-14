@@ -1,13 +1,13 @@
 {
   "name": "smoothscroll",
   "npmName": "smoothscroll-for-websites",
-  "npmFileMap": [ 
+  "npmFileMap": [
     {
       "basePath": "",
-      "files": [ 
-        "SmoothScroll.js" 
+      "files": [
+        "SmoothScroll.js"
       ]
-    } 
+    }
   ],
   "version": "1.4.1",
   "filename": "SmoothScroll.min.js",
